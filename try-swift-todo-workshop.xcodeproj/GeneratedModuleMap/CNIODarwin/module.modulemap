@@ -1,0 +1,4 @@
+module CNIODarwin {
+    umbrella "/Users/Leonardo/try-swift-todo-workshop/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIODarwin/include"
+    export *
+}
